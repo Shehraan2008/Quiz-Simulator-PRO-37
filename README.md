@@ -2,9 +2,9 @@
 
 ## Aim: 
 
-[x] **Main Goal**: To create a multiplayer game with a start page where 4 people can play a game f quiz together.
-[x] **Additional Goal 1**: A algorithm to check the answers
-[x] **Additional Goal 2**: A score bourd to display the scores and answers fo the play.
+- [x] **Main Goal**: To create a multiplayer game with a start page where 4 people can play a game f quiz together.
+- [x] **Additional Goal 1**: A algorithm to check the answers
+- [x] **Additional Goal 2**: A score bourd to display the scores and answers fo the play.
 
 ## Tools:
 
